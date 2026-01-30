@@ -67,15 +67,6 @@ Currently pursuing my Master's in Cybersecurity at USF Bellini College of AI, Cy
 |--------------|--------|
 | ITIL® Foundation | PeopleCert |
 | Linux Essentials | LPI |
-
----
-
-## 🎖️ Background
-
-**6 years U.S. Marine Corps** — Cyber Network Administrator → System Administrator → Platoon Sergeant
-
-Built and secured mission-critical networks across multiple security classifications, managed $5M+ in equipment, and led 100+ Marines and international forces. This experience shaped my approach to building resilient, secure systems.
-
 ---
 
 ## 📫 Let's Connect
