@@ -1,18 +1,36 @@
-# Hi, I'm Ryan 👋
+### Ryan Powers
 
-**Innovating at the Intersection of Agentic AI, Business & Security**
+AI Infrastructure • Agentic Systems • Cybersecurity
 
-I'm fueled by the untapped potential of modern technology—the endless opportunities it offers and the constant pace of advancement. With experience spanning Network Administration, System Administration, Cloud Engineering, and Cloud Architecture, I bring a versatile foundation in infrastructure and cloud computing to everything I build.
+Building systems at the intersection of:
+- AI
+- cloud infrastructure
+- cybersecurity
+- autonomous agents
 
-Currently pursuing my Master's in Cybersecurity at USF Bellini College of AI, Cybersecurity, and Computing, I'm fully committed to diving deep into AI and leveraging my technical background to develop solutions for complex challenges.
+MS Cybersecurity @ USF Bellini College  
+10+ years in network, systems, and cloud engineering.
 
 ---
+### Focus Areas
 
+- Agentic AI Systems
+- AI Security & Deepfake Detection
+- AI Infrastructure & MLOps
+- Autonomous Cyber Defense
+- Edge / IoT AI
+---
+## Current Research
+
+- Deepfake detection using CNN architectures and frequency-domain artifacts
+- State-space models (Mamba / S4) for anomaly detection in IoT telemetry
+- Agentic AI systems for autonomous cybersecurity operations
+- Graph-based knowledge systems for personal/operational intelligence (PostgreSQL + pgvector + Neo4j)
 ## 🔭 What I'm Working On
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 **[knowledge-brain](https://github.com/ryypow/knowledge-brain)** | Personal data infrastructure replacing Notion—a unified knowledge base with AI automation capabilities | PostgreSQL, pgvector, Neo4j, n8n, Docker |
+| 🧠 **[ControlCenter](https://github.com/ryypow/knowledge-brain)** | Personal data infrastructure replacing Notion—a unified knowledge base with AI automation capabilities | PostgreSQL, pgvector, Neo4j, n8n, Docker |
 | 🎯 **[ThreatCast](https://github.com/ryypow/ThreatCast)** | Forecasting cyber-attack probabilities using Monte Carlo Simulation | Python |
 | 🤖 **[Mujogic](https://github.com/ryypow/Mujogic)** | High-performance MuJoCo simulation environments for reinforcement learning and robotics research | Python, MuJoCo |
 | 🍳 **[KitchenAI-R18](https://github.com/ryypow/KitchenAI-R18)** | Comparing simple CNN architectures against fine-tuned models for food recognition | Python, TensorFlow |
