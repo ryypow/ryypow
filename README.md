@@ -39,11 +39,11 @@ MS Cybersecurity @ USF Bellini College
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-000000?style=flat)
 
 **Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-000000?style=flat)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryypow&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryypow&show_icons=true&theme=transparent)
