@@ -8,15 +8,13 @@ MS Cybersecurity @ USF Bellini College
 ---
 ### Focus Areas
 
-- Agentic AI Systems
-- AI Security & Deepfake Detection
+- Agentic Systems
 - AI Infrastructure & MLOps
 - Autonomous Cyber Defense
 - Edge / IoT AI
 ---
 ## Current Research
 
-- Deepfake detection using CNN architectures and frequency-domain artifacts
 - State-space models (Mamba / S4) for anomaly detection in IoT telemetry
 - Agentic AI systems for autonomous cybersecurity operations
 - Graph-based knowledge systems for personal/operational intelligence (PostgreSQL + pgvector + Neo4j)
